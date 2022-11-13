@@ -1,0 +1,76 @@
+{
+    "nextgen": [
+        {
+            "name": "John",
+            "accounts": [
+                {
+                    "type": "Savings",
+                    "balance": "1000$"
+                }
+            ],
+            "address": {
+                "name" : "John",
+                "age" : 39,
+                "address1": "7966 Pinnacle ",
+                "address2": "Ave NE",
+                "address3": "ELK River",
+                "address4": "MN",
+                "pin": "55330"
+            },
+            "appointment": {
+                "purpose": "Safe Deposit",
+                "date": "08/16/2022",
+                "time": "11:30 AM",
+                "branch": "BRANCH 01"
+            }
+        },
+        {
+            "name": "Advika",
+            "accounts": [
+                {
+                    "type": "Savings",
+                    "balance": "1000$"
+                }
+            ],
+            "address": {
+                "name" : "Advika",
+                "age" : 8,
+                "address1": "My Address",
+                "address2": "Urban Woods",
+                "address3": "Address Line 3",
+                "address4": "Address Line 4",
+                "pin": "562765"
+            },
+            "appointment": {
+                "purpose": "Safe Deposit",
+                "date": "08/16/2022",
+                "time": "12:30 PM",
+                "branch": "BRANCH 03"
+            }
+        },
+        {
+            "name": "Saul",
+            "accounts": [
+                {
+                    "type": "Savings",
+                    "balance": "1000$"
+                }
+            ],
+            "address": {
+                "name" : "Saul",
+                "age" : 48,
+                "address1": "7966 Pinnacle ",
+                "address2": "Ave NE",
+                "address3": "ELK River",
+                "address4": "MN",
+                "pin": "55330"
+            },
+            "appointment": {
+                "purpose": "Safe Deposit",
+                "date": "08/16/2022",
+                "time": "11:30 AM",
+                "branch": "BRANCH 01"
+            }
+        }
+    ]
+}
